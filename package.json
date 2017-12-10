@@ -1,0 +1,22 @@
+{
+  "name": "SeabearBot",
+  "version": "1.0.0",
+  "description": "A Twitterbot that tweets n-grams based on the poetry of Bandon Elrod.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "Rita",
+    "ngrams"
+  ],
+  "author": "Mottel Zirkind",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "rita": "^1.2.12",
+    "twit": "^2.2.9"
+  }
+}
