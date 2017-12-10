@@ -10,7 +10,9 @@
     "bot",
     "twitter",
     "Rita",
-    "ngrams"
+    "ngrams",
+    "poetry",
+    "generator"
   ],
   "author": "Mottel Zirkind",
   "license": "MIT",
